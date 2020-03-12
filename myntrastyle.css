@@ -1,0 +1,340 @@
+.navbar navbar-expand-lg navbar-light bg-light {
+	float: left;
+}
+
+
+.india {
+	color: rgba(128, 7, 7, 0.9) !important;
+	font-size: 11px;
+	font-weight: bold;
+	margin-left: 24px;
+}
+
+.topname {
+	font-size: 15px;
+	font-weight: bold;
+	margin-right: 30px;
+}
+
+.mr-sm-2 {
+	margin-left: 100px;
+}
+
+.navbar-expand-lg {
+	height: 80px;
+}
+
+.carousel-inner img {
+  width: 900px;
+  height: 400px;
+  margin-left: 200px;
+  border-radius: 10px;
+  margin-top: 12px;
+  margin-bottom: 18px;
+  -webkit-transition: 0.1s ease-in-out left;
+  -moz-transition: 0.1s ease-in-out left;
+  -o-transition: 0.1s ease-in-out left;
+  transition: 0.1s ease-in-out left;
+}
+
+.saletimer {
+	width: 100%;
+	height: 45px;
+	text-align: center;
+}
+.imgsize{
+	height: 50%;
+	width: 50%;
+}
+
+.cardimgr-1 {
+	margin-top: 18px;
+}
+
+.cardimgr-2 {
+	margin-top: 18px;
+}
+
+.footer {
+	margin-top: 10px;
+	text-align: center;
+	color: blue;
+}
+
+/*css for my myntra profile ...........*/
+/*start css*/
+
+
+.mymyntrafrofilebody {
+	background-color: white;
+}
+
+/*.mymyntrafrofilediv1 {
+	width: 270px;
+	height: 390px;
+	background-color: white;
+	margin-left: 500px;
+}*/
+
+.myprofileclass {
+    margin-left: 25px;
+}
+
+.card-title {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.card-text {
+	font-size: 15px;
+}
+
+.linkclass {
+	color:#ff527b;
+}
+
+.mysignupprofile {
+    text-align: center;
+    font-size: 15px;
+    background-color: white;
+    padding: 5px 20px 5px;
+    color:#ff527b;
+    margin-right: 12px; 
+}
+
+.myloginprofile {
+	font-size: 15px;
+    text-align: center;
+    background-color: white;
+    padding: 5px 20px 5px;
+    color:#ff527b;
+}
+
+.myorderlistclass {
+	padding-left: 20px;
+	font-size: 14px;
+}
+
+ /*css for signup page*/
+ /*start*/
+
+ .myblock1 {
+ 	width: 400px;
+ 	height: 675px;
+ 	background-color: white;
+ 	margin-top: 30px;
+ }
+
+body {
+	background-color: #feedf6;
+}
+
+.register-title {
+	font-size: 32px;
+    margin-top: 15px;
+    padding-top: 25px;
+    color: #535766;	 	
+}
+
+.register-info-button {
+	color: #94969f;
+    font-size: 12px;
+}
+
+.or-email-info-button {
+	font-size: 12px;
+    color: #94969f;	 
+}
+
+.login-info-button {
+	color: #94969f;
+    font-size: 12px;
+    margin-top: 35px;
+}
+
+p {
+	text-align: center;
+}
+
+.mytabform {
+    margin: 20px auto;
+    width: 344px;
+    color: steelblue;
+    border: 1px solid #94969f;
+    border-radius: 3px;
+}
+
+.myinputform {
+	padding: 10px;
+	font-size: inherit;
+	margin-left: 13px;
+	border-radius: 3px;
+}
+
+.email-form {
+	height: 25px;
+	padding-left: 12px;
+	padding-top: 22px;
+	font-size: 15px;
+	margin: 0px;
+
+}
+
+input[type="email"] {
+	display: block;
+	margin-bottom: 25px;
+	font-size: 15px;
+	width: 100%;
+	border: none;
+	/*border: 1px solid steelblue;*/
+}
+
+input[type="password"] {
+	display: block;
+	margin-left: 0px;
+	margin-bottom: 25px;
+	width: 100%;
+	font-size: 15px;
+	/*border: 1px solid steelblue;*/
+	border: none;
+}
+
+
+input[type="number"] {
+	display: block;
+	margin-left: 0px;
+	margin-bottom: 25px;
+	width: 100%;
+	border: none;
+	font-size: 15px;
+	/*border: 1px solid steelblue;*/
+}
+
+input[type="radio"] {
+	margin-left: 30px;
+	margin-right: 5px;
+	font-size: 28px;
+}
+
+input[type="radio"]:first-child {
+	margin-left: 30px;
+	font-size: 28px;
+
+}
+
+input[type="submit"] {
+	width: 344px;
+	height: 45px;
+	border: none;
+	background: #ff527b;
+	color: white;
+}
+
+.myimagebutton {
+	width: 380px;
+	height: 50px;
+	margin-left: 15px;
+	margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.myimagebutton1 {
+	max-width: 162px;
+    padding-left: 10px;
+    padding-right: 15px;
+    position: relative;
+    font-size: 13px;
+    font-weight: 5;
+    color: #696b79;
+    height: 50px;
+    border: 1px solid #bfc0c6;
+    background-color: white;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.myimagebutton2 {
+	width: 162px;
+	height: 50px;
+	margin-left: 18px;
+	border-radius: 5px;
+	background: white;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 10px;
+	padding-right: 33px;
+	position: relative;
+    font-size: 13px;
+    font-weight: 5;
+    color: #696b79;
+    height: 50px;
+    border: 1px solid #bfc0c6;
+}
+
+/*css login page*/
+
+.loginbody {
+	background-color: #feedf6;
+}
+
+.myblock2 {
+	width: 400px;
+ 	height: 550px;
+ 	background-color: white;
+ 	margin-top: 30px;
+}
+
+.register-titlelogin {
+	font-size: 32px;
+    margin-top: 15px;
+    padding-top: 30px;
+    color: #535766;	 
+}
+
+.register-info-buttonlogin {
+	color: #94969f;
+    font-size: 12px;
+}
+
+.mytabformlogin {
+	margin: 20px auto;
+    width: 344px;
+    color: steelblue;
+    border: 1px solid #94969f;
+    border-radius: 4px;
+}
+
+.mysigninform {
+	padding: 10px;
+	font-size: inherit;
+	margin-left: 13px;
+	margin-top: 15px;
+	border-radius: 4px;
+}
+
+.email1-form {
+    height: 25px;
+	/*padding-left: 12px;
+	padding-top: 22px;*/
+	font-size: 15px;
+	margin: 0px;
+}
+
+.password1-form {
+    display: block;
+	margin-left: 0px;
+	/*margin-bottom: 25px;*/
+	width: 100%;
+	font-size: 15px;
+	border: none;
+}
+
+.mypassrecover {
+	font-size: 12px;
+	margin-top: 18px;
+	color: #94969f;
+}
+
+.imageclass2 {
+	margin-right: 7px;
+}
